@@ -18,11 +18,11 @@
 
 ## Sitemap of the project
 
-![sitemap](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250317%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250317T084959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f5ddc7040a2d4283cc1339ba41fd92a23fb2522680343e60b860baeeca1a2e5b)
+![sitemap](/home/entwoane/holbertonschool-web_front_end/html_advanced/assets/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png)
 
 ## Wireframe of **Techium** App
 
-![techium](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250317%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250317T084959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=16c30b7c163bb0805da69b02453909eae3838651372ef1204a9e98043858a78d)
+![techium](/home/entwoane/holbertonschool-web_front_end/html_advanced/assets/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
 
 ## TASKS
 
@@ -55,7 +55,7 @@ File: 1-index.html
 
 Copy the content of 1-index.html into 2-index.html
 
-![favicon](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250317%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250317T084959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ac04b18136ba1f0cde5106b13710b020600ee124631e61f4a12002c09bf08b4f)
+![favicon](/home/entwoane/holbertonschool-web_front_end/html_advanced/assets/2ba3a0d7878316de5aaa.jpg)
 
 Meta charset:
 
@@ -651,7 +651,7 @@ Copy the content of 32-styleguide.html into 33-styleguide.html
     - in the section create a header, in the header add a level 2 heading with the text Table
     - after the header, create a table, reproduce in HTML the visual below
 
-![image](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250317%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250317T084959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1cd44f8fbf5212be71f4217547628d714ac48fc234def25e0e00fb7e08780912)
+![image](/home/entwoane/holbertonschool-web_front_end/html_advanced/assets/1348f88f2d78a5dee5d0.jpg)
 
 The \<th> tags containing Title, Director, Release Date should have a scope attribute set to col The \<th> tags containing the names of the movies should have a scope attribute set to row
 
@@ -682,7 +682,7 @@ File: 34-styleguide.html
 
 ### 35. Replace text logo with image logo
 
-![image](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250317%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250317T084959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=85017bb10d744e2e0fc009380d59efa61d1f67f67aa38696bd979bf44932ccb5)  
+![image](/home/entwoane/holbertonschool-web_front_end/html_advanced/assets/06f32e89f2a82582234e.png)  
 Copy the content of 31-index.html into 35-index.html
 
 - in header
