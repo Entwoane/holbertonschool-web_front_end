@@ -25,7 +25,7 @@ body {
   font-size: var(--font-size-medium);
 }
 
-body a {
+a {
   color: var(--text-color);
 }
 

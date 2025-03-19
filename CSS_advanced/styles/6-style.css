@@ -28,7 +28,7 @@ body {
   font-weight: var(--font-weight-regular);
 }
 
-body a {
+a {
   color: var(--text-color);
 }
 
